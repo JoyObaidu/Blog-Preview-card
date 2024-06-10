@@ -32,9 +32,7 @@ Users should be able to:
 -![mobile view](image-2.png) 
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://joyobaidu.github.io/Blog-Preview-card/)
 
 ## My process
 
